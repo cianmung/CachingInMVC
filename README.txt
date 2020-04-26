@@ -1,0 +1,1 @@
+The sql script has been given. Before you run the project, you may need to change the server name.
